@@ -84,8 +84,7 @@ endmodule
 ![new 2 2](https://user-images.githubusercontent.com/119477890/234773121-59162ff2-5c29-4b6d-b9d5-1e6abac13b8f.png)
 
 ### TRUTHTABLE:
-![Uploading truth table.jpg…]()
-
+![truth table](https://user-images.githubusercontent.com/119477890/234778180-6a910702-20c9-40d1-867e-71770f9121ba.jpg)
 
 ## Result:
 Thus the given logic functions are implemented using and their operations are verified using Verilog programming.
