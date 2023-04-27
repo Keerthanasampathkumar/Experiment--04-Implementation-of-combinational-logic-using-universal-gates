@@ -46,6 +46,7 @@ Developed by: KEERTHANA S
 RegisterNumber: 212222230066
 
 F1:
+
  module ff(a,b,c,d,f1);
  
  input a,b,c,d; 
@@ -57,6 +58,7 @@ F1:
  endmodule
  
 F2:
+
 module de (w,x,y,z,f2);
 
 input w,x,y,z;
